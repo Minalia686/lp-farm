@@ -1,0 +1,10 @@
+/media/
+/src/static/
+/static/admin/
+/certbot/
+/backup/
+.DS_Store
+*.env
+*.pyc
+*.dev
+*.cache*
